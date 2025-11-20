@@ -59,8 +59,6 @@ All data is sourced from the official repository for the correction paper:
 * Repository: dsfsi/flores-fix-4-africa
 * Paper: Abdulmumin et al. (2024), "Correcting FLORES Evaluation Dataset for Four African Languages."
 
-University of Pretoria | COS 802
-
 # Author
 Merhawi Hailu
 u17095736
