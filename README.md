@@ -1,4 +1,4 @@
-#Machine-Translation-Model-PROJECT
+# Machine-Translation-Model-PROJECT
 # Project Overview 
 Machine translation models for low-resource African languages are often evaluated against benchmarks that contain significant errors. This project investigates the impact of dataset corrections on the FLORES-200 benchmark for four African languages: Hausa (hau), Sepedi (nso), Xitsonga (tso), and isiZulu (zul).
 
